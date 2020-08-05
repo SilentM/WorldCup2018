@@ -1,5 +1,8 @@
 # WorldCup2018
-Utilizing Node, Express, MongoDB
+Utilizing Node, Express, MongoDB.
+Created an API to access a database containing World Cup 2018 country statistics using Node, Express, and MongoDB
+
+
 
 Dependencies needed to run:
 
