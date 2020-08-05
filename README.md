@@ -10,4 +10,4 @@ Dependencies needed to run:
 2. npm install body-parser
 3. npm install mongoose
 4. npm install dotenv
-5. Npm install cors
+5. npm install cors
